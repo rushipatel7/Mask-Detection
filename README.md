@@ -1,4 +1,4 @@
-# Mask-Detection
+# Mask-Detection [Yolov3-tiny]
 
 ## Run File:
 ```
